@@ -3,11 +3,11 @@
 title: 高超越
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 高超越
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: 超越
+last_name: 高
 
 # Status emoji
 status:
